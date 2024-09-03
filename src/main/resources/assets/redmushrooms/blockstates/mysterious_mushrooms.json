@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "redmushrooms:block/mysterious_mushrooms",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "redmushrooms:block/mysterious_mushrooms",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "redmushrooms:block/mysterious_mushrooms"
+    },
+    "facing=west": {
+      "model": "redmushrooms:block/mysterious_mushrooms",
+      "y": 90
+    }
+  }
+}

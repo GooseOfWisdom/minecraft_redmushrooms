@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "redmushrooms:mysterious_mushroom_block"
+    }
+  ],
+  "result": {
+    "item": "redmushrooms:mysterious_mushroom",
+    "count": 4
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "redmushrooms:block/mysterious_mushroom_block"
+  }
+}
